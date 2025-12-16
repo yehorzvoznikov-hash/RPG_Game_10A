@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{4A3D8AB6-E480-4A11-861E-0A5AB8C66BF9}|RPG_Game\\RPG_Game.csproj|c:\\git\\rpg_game_10a\\rpg_game\\rpg_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A3D8AB6-E480-4A11-861E-0A5AB8C66BF9}|RPG_Game\\RPG_Game.csproj|solutionrelative:rpg_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3D8AB6-E480-4A11-861E-0A5AB8C66BF9}|RPG_Game\\RPG_Game.csproj|c:\\git\\rpg_game_10a\\rpg_game\\rpg_game\\ispellcaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3D8AB6-E480-4A11-861E-0A5AB8C66BF9}|RPG_Game\\RPG_Game.csproj|solutionrelative:rpg_game\\ispellcaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3D8AB6-E480-4A11-861E-0A5AB8C66BF9}|RPG_Game\\RPG_Game.csproj|c:\\git\\rpg_game_10a\\rpg_game\\rpg_game\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3D8AB6-E480-4A11-861E-0A5AB8C66BF9}|RPG_Game\\RPG_Game.csproj|solutionrelative:rpg_game\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISpellCaster.cs",
+              "DocumentMoniker": "C:\\Git\\RPG_Game_10A\\RPG_Game\\RPG_Game\\ISpellCaster.cs",
+              "RelativeDocumentMoniker": "RPG_Game\\ISpellCaster.cs",
+              "ToolTip": "C:\\Git\\RPG_Game_10A\\RPG_Game\\RPG_Game\\ISpellCaster.cs",
+              "RelativeToolTip": "RPG_Game\\ISpellCaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T11:01:47.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Git\\RPG_Game_10A\\RPG_Game\\RPG_Game\\Enemy.cs",
+              "RelativeDocumentMoniker": "RPG_Game\\Enemy.cs",
+              "ToolTip": "C:\\Git\\RPG_Game_10A\\RPG_Game\\RPG_Game\\Enemy.cs",
+              "RelativeToolTip": "RPG_Game\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T10:55:05.422Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +58,7 @@
               "RelativeDocumentMoniker": "RPG_Game\\Program.cs",
               "ToolTip": "C:\\Git\\RPG_Game_10A\\RPG_Game\\RPG_Game\\Program.cs",
               "RelativeToolTip": "RPG_Game\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-02T10:52:38.111Z",
               "EditorCaption": ""
